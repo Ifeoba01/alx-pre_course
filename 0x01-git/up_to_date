@@ -1,0 +1,4 @@
+git checkout update_script
+git fetch origin
+git pull master
+git push origin update_script
