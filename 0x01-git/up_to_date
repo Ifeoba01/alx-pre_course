@@ -1,4 +1,8 @@
 git checkout update_script
 git fetch origin
+<<<<<<< HEAD
 git pull master
+=======
+git pull origin master
+>>>>>>> update_script
 git push origin update_script
